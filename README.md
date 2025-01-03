@@ -1,12 +1,12 @@
 # Overview
 
-This project contains an explanation of concepts for data and model monitoring, as well as hands-on implementation with the `Evidently AI` library.
+This project contains an explanation of concepts for data and model monitoring, as well as hands-on implementation with the `Evidently AI` library. All this information is within the `project.ipynb` file
 
-I created reports and tests, both avaiable in the artifacts folder.
+I created reports and tests, that avaiable in the artifacts folder.
 
 In the end is provided guidelines to a automatic data and model monitoring framework for real world, following this workflow design:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/board/hs1YcFYR0QAi1fEmtKIOyM/evidently?embed-host=share" allowfullscreen></iframe>
+![1735929824157](image/README/1735929824157.png)
 
 # Running on Your Computer
 
