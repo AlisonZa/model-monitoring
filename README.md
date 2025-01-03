@@ -6,7 +6,7 @@ I created reports and tests, that avaiable in the artifacts folder.
 
 In the end is provided guidelines to a automatic data and model monitoring framework for real world, following this workflow design:
 
-![1735929824157](image/README/1735929824157.png)
+![1735929954967](image/README/1735929954967.jpg)
 
 # Running on Your Computer
 
