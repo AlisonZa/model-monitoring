@@ -1,10 +1,14 @@
 # Overview
 
-This project contains an explanation of concepts for data and model monitoring, as well as hands-on implementation with the `Evidently AI` library. All this information is within the `project.ipynb` file
+This project contains an explanation of concepts for data and model monitoring, as well as hands-on implementation with the `Evidently AI` library. All this information is within the `project.ipynb` file.
 
-I created reports and tests, that avaiable in the artifacts folder.
+I created reports and tests, that are avaiable in the artifacts folder:
 
-In the end is provided guidelines to a automatic data and model monitoring framework for real world, following this workflow design:
+Report example:
+
+![1735930166410](image/README/1735930166410.png)
+
+Finally, are provided guidelines to an automatic data and model monitoring framework for real-world applications, following this workflow design:
 
 ![1735929954967](image/README/1735929954967.jpg)
 
@@ -16,7 +20,7 @@ In the end is provided guidelines to a automatic data and model monitoring frame
 git clone https://github.com/AlisonZa/model-monitoring
 ```
 
-2. Create a python 3.10.16 virtual environment;
+2. Create a Python 3.10.16 virtual environment;
 
 3. Activate this environment;
 
